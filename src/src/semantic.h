@@ -1,1 +1,1 @@
-
+void check_semantics();

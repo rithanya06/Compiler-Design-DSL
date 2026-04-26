@@ -1,1 +1,1 @@
-
+void generate_code();
